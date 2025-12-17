@@ -1,0 +1,249 @@
+{
+    "categories": [
+        {
+            "id": "text",
+            "name": "Texto, Chat y Lenguaje",
+            "description": "Modelos de lenguaje, asistentes conversacionales y herramientas para texto.",
+            "tools": [
+                {
+                    "name": "ChatGPT",
+                    "url": "https://chatgpt.com",
+                    "description": "Asistente general para escritura, programación, análisis e ideación.",
+                    "icon": "assets/img/logo.svg",
+                    "tags": [
+                        "chat",
+                        "texto",
+                        "codigo"
+                    ]
+                },
+                {
+                    "name": "Claude",
+                    "url": "https://claude.ai",
+                    "description": "Modelo enfocado en razonamiento profundo y lectura de documentos largos.",
+                    "tags": [
+                        "chat",
+                        "analisis"
+                    ]
+                },
+                {
+                    "name": "DeepSeek",
+                    "url": "https://chat.deepseek.com",
+                    "description": "Modelo potente para programación, matemáticas y razonamiento técnico.",
+                    "tags": [
+                        "codigo",
+                        "razonamiento"
+                    ]
+                },
+                {
+                    "name": "Qwen",
+                    "url": "https://chat.qwen.ai",
+                    "description": "Modelo de lenguaje desarrollado por Alibaba para tareas generales y técnicas.",
+                    "tags": [
+                        "llm",
+                        "chat"
+                    ]
+                },
+                {
+                    "name": "Character.ai",
+                    "url": "https://character.ai",
+                    "description": "Chats con personajes generados por IA para conversación y narrativa.",
+                    "tags": [
+                        "chat",
+                        "personajes"
+                    ]
+                },
+                {
+                    "name": "Venice AI",
+                    "url": "https://venice.ai",
+                    "description": "Plataforma de IA enfocada en privacidad y uso sin rastreo intensivo.",
+                    "tags": [
+                        "privacidad",
+                        "chat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "image",
+            "name": "Imagen, Arte y Diseño",
+            "description": "Generación, edición y mejora de imágenes mediante IA.",
+            "tools": [
+                {
+                    "name": "AI image",
+                    "url": "https://perchance.org/ai-text-to-image-generator",
+                    "description": "Generador de imagenes totalmente gratis",
+                    "tags": [
+                        "imagen",
+                        "gratis",
+                        "arte"
+                    ]
+                },
+                {
+                    "name": "DALL·E",
+                    "url": "https://chatgpt.com",
+                    "description": "Generador de imágenes a partir de texto con enfoque conceptual.",
+                    "tags": [
+                        "imagen",
+                        "arte"
+                    ]
+                },
+                {
+                    "name": "Leonardo AI",
+                    "url": "https://leonardo.ai",
+                    "description": "Generación de imágenes con control de estilos y modelos entrenados.",
+                    "tags": [
+                        "imagen",
+                        "arte"
+                    ]
+                },
+                {
+                    "name": "Freepik AI",
+                    "url": "https://www.freepik.com/pikaso/ai-image-generator",
+                    "description": "Generación de imágenes orientada a diseño gráfico y recursos comerciales.",
+                    "tags": [
+                        "imagen",
+                        "diseno"
+                    ]
+                },
+                {
+                    "name": "Dzine",
+                    "url": "https://www.dzine.ai",
+                    "description": "Diseño gráfico asistido por IA para contenido visual rápido.",
+                    "tags": [
+                        "diseno",
+                        "imagen"
+                    ]
+                },
+                {
+                    "name": "Upscale.media",
+                    "url": "https://www.upscale.media",
+                    "description": "Escalado y mejora de imágenes mediante inteligencia artificial.",
+                    "tags": [
+                        "imagen",
+                        "upscale"
+                    ]
+                },
+                {
+                    "name": "AI Ease",
+                    "url": "https://www.aiease.ai",
+                    "description": "Herramientas rápidas de edición y mejora visual con IA.",
+                    "tags": [
+                        "imagen",
+                        "edicion"
+                    ]
+                },
+                {
+                    "name": "a1.art",
+                    "url": "https://a1.art",
+                    "description": "Plataforma experimental de arte generativo y prompts.",
+                    "tags": [
+                        "arte",
+                        "experimental"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "audio",
+            "name": "Audio, Música y Voz",
+            "description": "Generación musical, síntesis de voz y producción de audio.",
+            "tools": [
+                {
+                    "name": "Suno",
+                    "url": "https://suno.com",
+                    "description": "Generación de canciones completas a partir de texto.",
+                    "tags": [
+                        "musica",
+                        "audio"
+                    ]
+                },
+                {
+                    "name": "Kits.ai",
+                    "url": "https://kits.ai",
+                    "description": "Clonación y conversión de voces para producción musical.",
+                    "tags": [
+                        "voz",
+                        "musica"
+                    ]
+                },
+                {
+                    "name": "Play.ht",
+                    "url": "https://play.ht",
+                    "description": "Síntesis de voz y narración con voces realistas.",
+                    "tags": [
+                        "voz",
+                        "tts"
+                    ]
+                },
+                {
+                    "name": "LANDR",
+                    "url": "https://www.landr.com",
+                    "description": "Masterización automática y herramientas de audio para músicos.",
+                    "tags": [
+                        "audio",
+                        "musica"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "video",
+            "name": "Video y Multimedia",
+            "description": "Creación y animación de video mediante IA.",
+            "tools": [
+                {
+                    "name": "InVideo AI",
+                    "url": "https://invideo.io",
+                    "description": "Generación automática de videos a partir de texto.",
+                    "tags": [
+                        "video",
+                        "multimedia"
+                    ]
+                },
+                {
+                    "name": "Hedra",
+                    "url": "https://www.hedra.com",
+                    "description": "Animación de rostros y personajes con IA.",
+                    "tags": [
+                        "video",
+                        "animacion"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dev",
+            "name": "Desarrollo, Datos e Investigación",
+            "description": "IA aplicada a programación, datos y desarrollo técnico.",
+            "tools": [
+                {
+                    "name": "Devin",
+                    "url": "https://devin.ai",
+                    "description": "Agente autónomo para tareas completas de desarrollo de software.",
+                    "tags": [
+                        "codigo",
+                        "dev"
+                    ]
+                },
+                {
+                    "name": "Google AI Studio",
+                    "url": "https://aistudio.google.com",
+                    "description": "Entorno para experimentar con modelos de IA de Google.",
+                    "tags": [
+                        "dev",
+                        "llm"
+                    ]
+                },
+                {
+                    "name": "Database.build",
+                    "url": "https://database.build",
+                    "description": "Exploración y visualización de datos asistida por IA.",
+                    "tags": [
+                        "datos",
+                        "dev"
+                    ]
+                }
+            ]
+        }
+    ]
+}
