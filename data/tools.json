@@ -60,6 +60,26 @@
                         "privacidad",
                         "chat"
                     ]
+                },
+                {
+                    "name": "Perplexity",
+                    "url": "https://www.perplexity.ai",
+                    "description": "Buscador conversacional que combina IA con resultados en tiempo real.",
+                    "tags": [
+                        "busqueda",
+                        "texto",
+                        "ia"
+                    ]
+                },
+                {
+                    "name": "NotebookLM",
+                    "url": "https://notebooklm.google.com",
+                    "description": "Asistente de investigacion de Google para analizar tus propios documentos.",
+                    "tags": [
+                        "investigacion",
+                        "texto",
+                        "google"
+                    ]
                 }
             ]
         },
@@ -140,6 +160,26 @@
                         "arte",
                         "experimental"
                     ]
+                },
+                {
+                    "name": "Mixboard",
+                    "url": "https://labs.google.com/mixboard/welcome",
+                    "description": "Herramienta de concepto visual y moodboards con IA.",
+                    "tags": [
+                        "imagen",
+                        "diseno",
+                        "concepto"
+                    ]
+                },
+                {
+                    "name": "Midjourney",
+                    "url": "https://www.midjourney.com",
+                    "description": "IA lider en generacion de imagenes artisticas de alta calidad.",
+                    "tags": [
+                        "imagen",
+                        "arte",
+                        "premium"
+                    ]
                 }
             ]
         },
@@ -192,6 +232,26 @@
                         "audio",
                         "musica"
                     ]
+                },
+                {
+                    "name": "minimax",
+                    "url": "https://www.minimax.io/",
+                    "description": "clonación de voz",
+                    "tags": [
+                        "audio",
+                        "voz",
+                        "clonación"
+                    ]
+                },
+                {
+                    "name": "ElevenLabs",
+                    "url": "https://elevenlabs.io",
+                    "description": "La IA mas avanzada para clonacion de voz y síntesis de audio.",
+                    "tags": [
+                        "voz",
+                        "audio",
+                        "clonacion"
+                    ]
                 }
             ]
         },
@@ -213,6 +273,43 @@
                     "name": "Hedra",
                     "url": "https://www.hedra.com",
                     "description": "Animación de rostros y personajes con IA.",
+                    "tags": [
+                        "video",
+                        "animacion"
+                    ]
+                },
+                {
+                    "name": "HeyGen",
+                    "url": "https://www.heygen.com",
+                    "description": "Generación de videos con avatares de IA.",
+                    "tags": [
+                        "video",
+                        "avatar"
+                    ]
+                },
+                {
+                    "name": "Runway",
+                    "url": "https://runwayml.com",
+                    "description": "Herramientas creativas de video generativo lideres en la industria.",
+                    "tags": [
+                        "video",
+                        "edicion",
+                        "gen-3"
+                    ]
+                },
+                {
+                    "name": "Luma Dream Machine",
+                    "url": "https://lumalabs.ai/dream-machine",
+                    "description": "Generador de video ultra realista de alta fidelidad.",
+                    "tags": [
+                        "video",
+                        "realismo"
+                    ]
+                },
+                {
+                    "name": "Pika",
+                    "url": "https://pika.art",
+                    "description": "Plataforma de animacion de video mediante IA.",
                     "tags": [
                         "video",
                         "animacion"
@@ -250,6 +347,36 @@
                     "tags": [
                         "datos",
                         "dev"
+                    ]
+                },
+                {
+                    "name": "Hugging Face",
+                    "url": "https://huggingface.co",
+                    "description": "La comunidad y plataforma principal para modelos y datasets de IA.",
+                    "tags": [
+                        "modelos",
+                        "dev",
+                        "open-source"
+                    ]
+                },
+                {
+                    "name": "Kursor",
+                    "url": "https://www.cursor.com",
+                    "description": "Editor de codigo basado en AI diseñado para programar mas rápido.",
+                    "tags": [
+                        "codigo",
+                        "ide",
+                        "ia"
+                    ]
+                },
+                {
+                    "name": "Antigravity",
+                    "url": "https://antigravity.google",
+                    "description": "Agente de codificacion autonomo avanzado para tareas complejas.",
+                    "tags": [
+                        "agente",
+                        "codigo",
+                        "ia"
                     ]
                 }
             ]
