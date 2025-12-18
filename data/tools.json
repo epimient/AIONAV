@@ -149,6 +149,15 @@
             "description": "Generación musical, síntesis de voz y producción de audio.",
             "tools": [
                 {
+                    "name": "Fish Audio",
+                    "url": "https://fish.audio/es/",
+                    "description": "Plataforma de clonacion de voz",
+                    "tags": [
+                        "voz",
+                        "audio"
+                    ]
+                },
+                {
                     "name": "Suno",
                     "url": "https://suno.com",
                     "description": "Generación de canciones completas a partir de texto.",
